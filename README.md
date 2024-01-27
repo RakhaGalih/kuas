@@ -32,6 +32,6 @@ Access your work and notes across your devices. Kuas ensures your creativity and
 
 https://github.com/RakhaGalih/kuas/assets/54633534/7b7751e8-682c-4c9f-9ed6-9eb9f81028af
 
-Made with ❤️ by Rakha. Please enjoy!
+<b> Made with ❤️ by Rakha. Please enjoy! </b>
 
 Tutorial by @retroportalstudio
