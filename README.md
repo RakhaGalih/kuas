@@ -1,4 +1,4 @@
-## Introducing Kuas - Your Versatile Drawing and Note-Taking App 🎨📝
+## Kuas - Your Versatile Drawing and Note-Taking App 🎨📝
 
 Kuas is a user-friendly app that offers both drawing and note-taking capabilities. Whether you're an artist or need a place to jot down ideas, Kuas has you covered.
 
