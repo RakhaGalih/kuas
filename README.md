@@ -2,7 +2,7 @@
 
 ### (This repository has been corrupted!)
 
-Kuas is a user-friendly app that offers both drawing and note-taking capabilities. Whether you're an artist or need a place to jot down ideas, Kuas has you covered.
+Kuas was a user-friendly app that offers both drawing and note-taking capabilities. Whether you're an artist or need a place to jot down ideas, Kuas has you covered.
 
 <br>
 
